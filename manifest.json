@@ -1,8 +1,7 @@
 {
- "theme_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
- "name": "Untitled 5",
- "background_color": "#FFFFFF",
+ "theme_color": "#A47B4C",
+ "background_color": "#A47B4C",
+ "name": "Port Royal game",
  "display": "fullscreen",
  "icons": [
   {
@@ -40,5 +39,6 @@
    "src": "misc/icon180.png",
    "sizes": "180x180"
   }
- ]
+ ],
+ "start_url": "index.htm?installed=true"
 }
