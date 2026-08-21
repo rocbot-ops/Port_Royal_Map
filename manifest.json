@@ -1,7 +1,7 @@
 {
  "theme_color": "#A47B4C",
- "background_color": "#A47B4C",
  "name": "Port Royal game",
+ "start_url": "index.htm?installed=true",
  "display": "fullscreen",
  "icons": [
   {
@@ -40,5 +40,5 @@
    "sizes": "180x180"
   }
  ],
- "start_url": "index.htm?installed=true"
+ "background_color": "#A47B4C"
 }
