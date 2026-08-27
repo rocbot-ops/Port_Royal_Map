@@ -1,29 +1,14 @@
 {
- "background_color": "#000000",
- "name": "Port Royal game",
- "theme_color": "#000000",
- "display": "fullscreen",
  "start_url": "index.htm?installed=true",
+ "background_color": "#000000",
+ "theme_color": "#000000",
+ "name": "Port Royal game",
+ "display": "fullscreen",
  "icons": [
-  {
-   "type": "image/png",
-   "src": "misc/icon16.png",
-   "sizes": "16x16"
-  },
   {
    "type": "image/png",
    "src": "misc/icon512.png",
    "sizes": "512x512"
-  },
-  {
-   "type": "image/png",
-   "src": "misc/icon64.png",
-   "sizes": "64x64"
-  },
-  {
-   "type": "image/png",
-   "src": "misc/icon150.png",
-   "sizes": "150x150"
   },
   {
    "type": "image/png",
@@ -32,13 +17,28 @@
   },
   {
    "type": "image/png",
+   "src": "misc/icon180.png",
+   "sizes": "180x180"
+  },
+  {
+   "type": "image/png",
+   "src": "misc/icon150.png",
+   "sizes": "150x150"
+  },
+  {
+   "type": "image/png",
+   "src": "misc/icon64.png",
+   "sizes": "64x64"
+  },
+  {
+   "type": "image/png",
    "src": "misc/icon32.png",
    "sizes": "32x32"
   },
   {
    "type": "image/png",
-   "src": "misc/icon180.png",
-   "sizes": "180x180"
+   "src": "misc/icon16.png",
+   "sizes": "16x16"
   }
  ]
 }
