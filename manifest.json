@@ -1,8 +1,8 @@
 {
- "start_url": "index.htm?installed=true",
- "background_color": "#000000",
- "name": "Port Royal: Weh Dem Deh",
  "theme_color": "#000000",
+ "background_color": "#000000",
+ "start_url": "index.htm?installed=true",
+ "name": "Port Royal: Weh Dem Deh",
  "display": "fullscreen",
  "icons": [
   {
